@@ -1,0 +1,7 @@
+hydra-core==1.0.6
+transformers>=4.4.0
+datasets>=1.5.0
+wandb
+pshmodule
+torch -f https://download.pytorch.org/whl/cu116/torch_stable.html
+torchvision
